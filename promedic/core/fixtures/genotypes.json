@@ -1,0 +1,25 @@
+
+[
+  {
+    "model": "core.Genotype",
+    "pk": 1,
+    "fields": {
+      "name": "AA"
+    }
+  },
+  {
+    "model": "core.Genotype",
+    "pk": 2,
+    "fields": {
+      "name": "AS"
+    }
+  },
+  {
+    "model": "core.Genotype",
+    "pk": 3,
+    "fields": {
+      "name": "SS"
+    }
+  }
+
+]

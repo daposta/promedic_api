@@ -1,0 +1,39 @@
+
+[
+  {
+    "model": "core.AreaOfConcentration",
+    "pk": 1,
+    "fields": {
+      "name": "First Aid"
+    }
+  },
+  {
+    "model": "core.AreaOfConcentration",
+    "pk": 2,
+    "fields": {
+      "name": "Minor Surgery"
+    }
+  },
+  {
+    "model": "core.AreaOfConcentration",
+    "pk": 3,
+    "fields": {
+      "name": "Transporter (Mobile)"
+    }
+  },
+  {
+    "model": "core.AreaOfConcentration",
+    "pk": 4,
+    "fields": {
+      "name": "Volunteer"
+    }
+  },
+  {
+    "model": "core.AreaOfConcentration",
+    "pk": 5,
+    "fields": {
+      "name": "Pharmacist"
+    }
+  }
+
+]

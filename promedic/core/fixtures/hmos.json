@@ -1,0 +1,20 @@
+[
+  {
+    "model": "core.HMO",
+    "pk": 1,
+    "fields": {
+      "name": "HYGEIA HMO LIMITED",
+      "address" : "11A Idejo Street, Off Ademola Odeku Street, Victoria Island, Lagos.",
+      "state" : 16
+    }
+  },
+  {
+    "model": "core.HMO",
+    "pk": 2,
+    "fields": {
+      "name": "TOTAL HEALTH TRUST",
+      "address" : "2 Marconi Road Palmgrove Estate, Lagos",
+      "state" : 16
+    }
+  }
+]

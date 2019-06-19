@@ -1,0 +1,46 @@
+
+[
+  {
+    "model": "core.Kit",
+    "pk": 1,
+    "fields": {
+      "name": "First Aid"
+    }
+  },
+  {
+    "model": "core.Kit",
+    "pk": 2,
+    "fields": {
+      "name": "Minor Surgery"
+    }
+  },
+  {
+    "model": "core.Kit",
+    "pk": 3,
+    "fields": {
+      "name": "Oxygen Tank"
+    }
+  },
+  {
+    "model": "core.Kit",
+    "pk": 4,
+    "fields": {
+      "name": "Defribillator"
+    }
+  },
+  {
+    "model": "core.Kit",
+    "pk": 5,
+    "fields": {
+      "name": "Mobility"
+    }
+  },
+  {
+    "model": "core.Kit",
+    "pk": 6,
+    "fields": {
+      "name": "Drone"
+    }
+  }
+
+]

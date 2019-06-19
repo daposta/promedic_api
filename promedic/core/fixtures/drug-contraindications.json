@@ -1,0 +1,32 @@
+
+[
+  {
+    "model": "core.DrugContraIndication",
+    "pk": 1,
+    "fields": {
+      "name": "Peptic Ulcer"
+    }
+  },
+  {
+    "model": "core.DrugContraIndication",
+    "pk": 2,
+    "fields": {
+      "name": "Pregnancy"
+    }
+  },
+  {
+    "model": "core.DrugContraIndication",
+    "pk": 3,
+    "fields": {
+      "name": "Diabetes"
+    }
+  },
+  {
+    "model": "core.DrugContraIndication",
+    "pk": 4,
+    "fields": {
+      "name": "Liver DXS"
+    }
+  }
+
+]

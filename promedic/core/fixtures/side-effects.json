@@ -1,0 +1,32 @@
+
+[
+  {
+    "model": "core.DrugSideEffect",
+    "pk": 1,
+    "fields": {
+      "name": "Nausea"
+    }
+  },
+  {
+    "model": "core.DrugSideEffect",
+    "pk": 2,
+    "fields": {
+      "name": "Vomiting"
+    }
+  },
+  {
+    "model": "core.DrugSideEffect",
+    "pk": 3,
+    "fields": {
+      "name": "Constipation"
+    }
+  },
+  {
+    "model": "core.DrugSideEffect",
+    "pk": 4,
+    "fields": {
+      "name": "Indigestion"
+    }
+  }
+
+]

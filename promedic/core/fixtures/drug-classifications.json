@@ -1,0 +1,32 @@
+
+[
+  {
+    "model": "core.DrugClassification",
+    "pk": 1,
+    "fields": {
+      "name": "Analgesic"
+    }
+  },
+  {
+    "model": "core.DrugClassification",
+    "pk": 2,
+    "fields": {
+      "name": "Anti-Inflammatory"
+    }
+  },
+  {
+    "model": "core.DrugClassification",
+    "pk": 3,
+    "fields": {
+      "name": "Vitamin"
+    }
+  },
+  {
+    "model": "core.DrugClassification",
+    "pk": 4,
+    "fields": {
+      "name": "Antidepressant"
+    }
+  }
+
+]

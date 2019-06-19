@@ -1,0 +1,18 @@
+
+[
+  {
+    "model": "core.Disablity",
+    "pk": 1,
+    "fields": {
+      "name": "Parkinsons"
+    }
+  },
+  {
+    "model": "core.Disablity",
+    "pk": 2,
+    "fields": {
+      "name": "Alzheimers"
+    }
+  }
+
+]

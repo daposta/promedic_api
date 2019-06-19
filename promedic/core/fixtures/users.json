@@ -1,0 +1,25 @@
+[
+  {
+    "model": "core.Member",
+    "pk": 1,
+    "fields": {
+      "mobile" : "07030052453",
+      "password": "pbkdf2_sha256$30000$YabIr8rohauJ$qH6KrwVxqgf8dmWUNvojx6WDfMx4d8WcBh1R4psN9xU=", 
+      "is_active": true,
+      "user_type" : "SU"
+      
+    }
+  },
+  {
+    "model": "core.Member",
+    "pk": 2,
+    "fields": {
+      "mobile" : "08065519452",
+      "password": "pbkdf2_sha256$30000$YabIr8rohauJ$qH6KrwVxqgf8dmWUNvojx6WDfMx4d8WcBh1R4psN9xU=", 
+      "is_active": true,
+      "user_type" : "SU"
+      
+    }
+  }
+  
+]

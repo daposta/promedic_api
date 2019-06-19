@@ -1,0 +1,6154 @@
+[
+  {
+    "model": "core.LocalGovernment",
+    "pk": 1,
+    "fields": {
+      "name": "Bade",
+      "state": ["YO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 2,
+    "fields": {
+      "name": "Bursari",
+      "state": ["YO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 3,
+    "fields": {
+      "name": "Damaturu",
+      "state": ["YO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 4,
+    "fields": {
+      "name": "Fika",
+      "state": ["YO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 5,
+    "fields": {
+      "name": "Fune",
+      "state": ["YO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 6,
+    "fields": {
+      "name": "Geidam",
+      "state": ["YO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 7,
+    "fields": {
+      "name": "Gujba",
+      "state": ["YO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 8,
+    "fields": {
+      "name": "Gulani",
+      "state": ["YO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 9,
+    "fields": {
+      "name": "Jakusko",
+      "state": ["YO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 10,
+    "fields": {
+      "name": "Karasuwa",
+      "state": ["YO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 11,
+    "fields": {
+      "name": "Karawa",
+      "state": ["YO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 12,
+    "fields": {
+      "name": "Machina",
+      "state": ["YO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 13,
+    "fields": {
+      "name": "Nangere",
+      "state": ["YO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 14,
+    "fields": {
+      "name": "Nguru Potiskum",
+      "state": ["YO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 15,
+    "fields": {
+      "name": "Tarmua",
+      "state": ["YO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 16,
+    "fields": {
+      "name": "Yunusari",
+      "state": ["YO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 17,
+    "fields": {
+      "name": "Yusufari",
+      "state": ["YO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 18,
+    "fields": {
+      "name": "Ardo-kola",
+      "state": ["TA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 19,
+    "fields": {
+      "name": "Bali",
+      "state": ["TA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 20,
+    "fields": {
+      "name": "Donga",
+      "state": ["TA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 21,
+    "fields": {
+      "name": "Gashaka",
+      "state": ["TA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 22,
+    "fields": {
+      "name": "Cassol",
+      "state": ["TA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 23,
+    "fields": {
+      "name": "Ibi",
+      "state": ["TA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 24,
+    "fields": {
+      "name": "Jalingo",
+      "state": ["TA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 25,
+    "fields": {
+      "name": "Karin-Lamido",
+      "state": ["TA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 26,
+    "fields": {
+      "name": "Kurmi",
+      "state": ["TA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 27,
+    "fields": {
+      "name": "Lau",
+      "state": ["TA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 28,
+    "fields": {
+      "name": "Sardauna",
+      "state": ["TA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 29,
+    "fields": {
+      "name": "Takum",
+      "state": ["TA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 30,
+    "fields": {
+      "name": "Ussa",
+      "state": ["TA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 31,
+    "fields": {
+      "name": "Wukari",
+      "state": ["TA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 32,
+    "fields": {
+      "name": "Yorro",
+      "state": ["TA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 33,
+    "fields": {
+      "name": "Zing",
+      "state": ["TA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 34,
+    "fields": {
+      "name": "Asa",
+      "state": ["KW"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 35,
+    "fields": {
+      "name": "Baruten",
+      "state": ["KW"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 36,
+    "fields": {
+      "name": "Edu",
+     "state": ["KW"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 37,
+    "fields": {
+      "name": "Ekiti",
+      "state": ["KW"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 38,
+    "fields": {
+      "name": "Ifelodun",
+      "state": ["KW"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 39,
+    "fields": {
+      "name": "Ilorin East",
+      "state": ["KW"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 40,
+    "fields": {
+      "name": "Ilorin West",
+     "state": ["KW"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 41,
+    "fields": {
+      "name": "Irepodun",
+      "state": ["KW"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 42,
+    "fields": {
+      "name": "Isin",
+      "state": ["KW"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 43,
+    "fields": {
+      "name": "Kaiama",
+      "state": ["KW"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 44,
+    "fields": {
+      "name": "Moro",
+      "state": ["KW"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 45,
+    "fields": {
+      "name": "Offa",
+      "state": ["KW"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 46,
+    "fields": {
+      "name": "Oke-Ero",
+      "state": ["KW"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 47,
+    "fields": {
+      "name": "Oyun",
+      "state": ["KW"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 48,
+    "fields": {
+      "name": "Pategi",
+      "state": ["KW"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 49,
+    "fields": {
+      "name": "Akpabuyo",
+      "state": ["CR"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 50,
+    "fields": {
+      "name": "Odukpani",
+     "state": ["CR"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 51,
+    "fields": {
+      "name": "Akamkpa",
+      "state": ["CR"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 52,
+    "fields": {
+      "name": "Biase",
+      "state": ["CR"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 53,
+    "fields": {
+      "name": "Abi",
+      "state": ["CR"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 54,
+    "fields": {
+      "name": "Ikom",
+      "state": ["CR"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 55,
+    "fields": {
+      "name": "Yarkur",
+      "state": ["CR"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 56,
+    "fields": {
+      "name": "Odubra",
+      "state": ["CR"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 57,
+    "fields": {
+      "name": "Boki",
+      "state": ["CR"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 58,
+    "fields": {
+      "name": "Ogoja",
+      "state": ["CR"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 59,
+    "fields": {
+      "name": "Yala",
+      "state": ["CR"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 60,
+    "fields": {
+      "name": "Obanliku",
+      "state": ["CR"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 61,
+    "fields": {
+      "name": "Obudu",
+      "state": ["CR"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 62,
+    "fields": {
+      "name": "Calabar South",
+      "state": ["CR"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 63,
+    "fields": {
+      "name": "Etung",
+      "state": ["CR"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 64,
+    "fields": {
+      "name": "Bekwara",
+      "state": ["CR"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 65,
+    "fields": {
+      "name": "Bakassi",
+     "state": ["CR"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 66,
+    "fields": {
+      "name": "Calabar Municipality",
+      "state": ["CR"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 67,
+    "fields": {
+      "name": "Aleiro",
+      "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 68,
+    "fields": {
+      "name": "Arewa-Dandi",
+     "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 69,
+    "fields": {
+      "name": "Argungu",
+      "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 70,
+    "fields": {
+      "name": "Augie",
+      "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 71,
+    "fields": {
+      "name": "Bagudo",
+      "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 72,
+    "fields": {
+      "name": "Birnin Kebbi",
+      "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 73,
+    "fields": {
+      "name": "Bunza",
+      "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 74,
+    "fields": {
+      "name": "Dandi",
+      "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 75,
+    "fields": {
+      "name": "Fakai",
+      "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 76,
+    "fields": {
+      "name": "Gwandu",
+      "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 77,
+    "fields": {
+      "name": "Jega",
+      "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 78,
+    "fields": {
+      "name": "Kalgo",
+     "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 79,
+    "fields": {
+      "name": "Koko/Besse ",
+      "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 80,
+    "fields": {
+      "name": "Maiyama",
+      "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 81,
+    "fields": {
+      "name": "Ngaski",
+      "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 82,
+    "fields": {
+      "name": "Sakaba",
+      "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 83,
+    "fields": {
+      "name": "Shanga",
+      "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 84,
+    "fields": {
+      "name": "Suru",
+      "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 85,
+    "fields": {
+      "name": "Wasagu/Danko ",
+      "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 86,
+    "fields": {
+      "name": "Yauri",
+      "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 87,
+    "fields": {
+      "name": "Zuru",
+      "state": ["KE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 88,
+    "fields": {
+      "name": "Adavi",
+      "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 89,
+    "fields": {
+      "name": "Ajaokuta",
+     "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 91,
+    "fields": {
+      "name": "Ankpa",
+      "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 92,
+    "fields": {
+      "name": "Bassa",
+      "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 93,
+    "fields": {
+      "name": "Dekina",
+      "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 94,
+    "fields": {
+      "name": "Ibaji",
+      "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 95,
+    "fields": {
+      "name": "Idah",
+      "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 96,
+    "fields": {
+      "name": "Igalamela-Odolu ",
+      "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 97,
+    "fields": {
+      "name": "Ijumu",
+      "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 98,
+    "fields": {
+      "name": "Kabba/Bunu ",
+     "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 99,
+    "fields": {
+      "name": "Kogi",
+     "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 100,
+    "fields": {
+      "name": "Lokoja",
+      "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 101,
+    "fields": {
+      "name": "Mopa-Muro",
+      "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 102,
+    "fields": {
+      "name": "Ofu",
+      "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 103,
+    "fields": {
+      "name": "Ogori/Mangongo ",
+      "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 104,
+    "fields": {
+      "name": "Okehi",
+      "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 105,
+    "fields": {
+      "name": "Okene",
+      "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 106,
+    "fields": {
+      "name": "Olamabolo",
+      "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 107,
+    "fields": {
+      "name": "Omala",
+      "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 108,
+    "fields": {
+      "name": "Yagba East",
+      "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 109,
+    "fields": {
+      "name": "Yagba West",
+      "state": ["KO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 110,
+    "fields": {
+      "name": "Demsa",
+      "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 111,
+    "fields": {
+      "name": "Fufore",
+      "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 112,
+    "fields": {
+      "name": "Ganaye",
+      "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 113,
+    "fields": {
+      "name": "Gireri",
+      "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 114,
+    "fields": {
+      "name": "Gombi",
+      "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 115,
+    "fields": {
+      "name": "Guyuk",
+     "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 116,
+    "fields": {
+      "name": "Hong",
+      "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 117,
+    "fields": {
+      "name": "Jada",
+     "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 118,
+    "fields": {
+      "name": "Lamurde",
+      "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 119,
+    "fields": {
+      "name": "Madagali",
+      "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 120,
+    "fields": {
+      "name": "Maiha",
+      "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 121,
+    "fields": {
+      "name": "Mayo-Belwa",
+      "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 122,
+    "fields": {
+      "name": "Michika",
+      "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 123,
+    "fields": {
+      "name": "Mubi North",
+      "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 124,
+    "fields": {
+      "name": "Mubi South",
+      "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 125,
+    "fields": {
+      "name": "Numan",
+      "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 126,
+    "fields": {
+      "name": "Shelleng",
+      "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 127,
+    "fields": {
+      "name": "Song",
+      "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 128,
+    "fields": {
+      "name": "Toungo",
+      "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 129,
+    "fields": {
+      "name": "Yola North",
+      "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 130,
+    "fields": {
+      "name": "Yola South",
+      "state": ["AD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 131,
+    "fields": {
+      "name": "Esan North-East",
+      "state": ["ED"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 132,
+    "fields": {
+      "name": "Esan Central",
+     "state": ["ED"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 133,
+    "fields": {
+      "name": "Esan West",
+      "state": ["ED"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 134,
+    "fields": {
+      "name": "Egor",
+      "state": ["ED"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 135,
+    "fields": {
+      "name": "Ukpoba",
+      "state": ["ED"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 136,
+    "fields": {
+      "name": "Central",
+      "state": ["ED"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 137,
+    "fields": {
+      "name": "Etsako Central",
+      "state": ["ED"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 138,
+    "fields": {
+      "name": "Igueben",
+      "state": ["ED"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 139,
+    "fields": {
+      "name": "Oredo",
+      "state": ["ED"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 140,
+    "fields": {
+      "name": "Ovia SouthWest",
+      "state": ["ED"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 141,
+    "fields": {
+      "name": "Ovia South-East",
+       "state": ["ED"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 142,
+    "fields": {
+      "name": "Orhionwon",
+      "state": ["ED"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 143,
+    "fields": {
+      "name": "Uhunmwonde",
+      "state": ["ED"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 144,
+    "fields": {
+      "name": "Etsako East",
+      "state": ["ED"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 145,
+    "fields": {
+      "name": "Esan South-East",
+      "state": ["ED"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 146,
+    "fields": {
+      "name": "Aiyedade",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 147,
+    "fields": {
+      "name": "Aiyedire",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 148,
+    "fields": {
+      "name": "Atakumosa East",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 149,
+    "fields": {
+      "name": "Atakumosa West",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 150,
+    "fields": {
+      "name": "Boluwaduro",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 151,
+    "fields": {
+      "name": "Boripe",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 152,
+    "fields": {
+      "name": "Ede North",
+     "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 153,
+    "fields": {
+      "name": "Ede South",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 154,
+    "fields": {
+      "name": "Egbedore",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 155,
+    "fields": {
+      "name": "Ejigbo",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 156,
+    "fields": {
+      "name": "Ife Central",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 157,
+    "fields": {
+      "name": "Ife East",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 159,
+    "fields": {
+      "name": "Ife North",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 160,
+    "fields": {
+      "name": "Ife South",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 161,
+    "fields": {
+      "name": "Ifedayo",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 162,
+    "fields": {
+      "name": "Ifelodun",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 163,
+    "fields": {
+      "name": "Ila",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 164,
+    "fields": {
+      "name": "Ilesha East",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 165,
+    "fields": {
+      "name": "Ilesha West",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 166,
+    "fields": {
+      "name": "Irepodun",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 167,
+    "fields": {
+      "name": "Irewole",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 168,
+    "fields": {
+      "name": "Isokan",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 169,
+    "fields": {
+      "name": "Iwo",
+       "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 170,
+    "fields": {
+      "name": "Obokun",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 171,
+    "fields": {
+      "name": "Odo-Otin",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 172,
+    "fields": {
+      "name": "Ola-Oluwa",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 173,
+    "fields": {
+      "name": "Olorunda",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 174,
+    "fields": {
+      "name": "Oriade",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 175,
+    "fields": {
+      "name": "Orolu",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 176,
+    "fields": {
+      "name": "Osogbo",
+      "state": ["OS"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 177,
+    "fields": {
+      "name": "Aba North",
+       "state": ["AB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 178,
+    "fields": {
+      "name": "Aba South",
+     "state": ["AB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 179,
+    "fields": {
+      "name": "Arochukwu",
+      "state": ["AB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 180,
+    "fields": {
+      "name": "Bende",
+     "state": ["AB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 181,
+    "fields": {
+      "name": "Ikwuano",
+     "state": ["AB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 182,
+    "fields": {
+      "name": "Isiala-Ngwa North",
+      "state": ["AB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 183,
+    "fields": {
+      "name": "Isiala-Ngwa South",
+      "state": ["AB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 184,
+    "fields": {
+      "name": "Isuikwato",
+      "state": ["AB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 185,
+    "fields": {
+      "name": "Obi Nwa",
+      "state": ["AB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 186,
+    "fields": {
+      "name": "Ohafia",
+      "state": ["AB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 187,
+    "fields": {
+      "name": "Osisioma",
+      "state": ["AB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 188,
+    "fields": {
+      "name": "Ngwa",
+      "state": ["AB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 189,
+    "fields": {
+      "name": "Ugwunagbo",
+      "state": ["AB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 190,
+    "fields": {
+      "name": "Ukwa East",
+      "state": ["AB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 191,
+    "fields": {
+      "name": " Ukwa West",
+      "state": ["AB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 192,
+    "fields": {
+      "name": "Umuahia North",
+      "state": ["AB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 193,
+    "fields": {
+      "name": "Umuahia South",
+      "state": ["AB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 194,
+    "fields": {
+      "name": "Umu-Neochi",
+      "state": ["AB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 195,
+    "fields": {
+      "name": "Abeokuta North",
+      "state": ["OG"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 196,
+    "fields": {
+      "name": "Abeokuta South",
+      "state": ["OG"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 197,
+    "fields": {
+      "name": "Ado-Odo/Ota",
+     "state": ["OG"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 198,
+    "fields": {
+      "name": "Egbado North",
+      "state": ["OG"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 199,
+    "fields": {
+      "name": "Egbado South",
+      "state": ["OG"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 200,
+    "fields": {
+      "name": "Ewekoro",
+      "state": ["OG"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 201,
+    "fields": {
+      "name": "Ifo",
+      "state": ["OG"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 202,
+    "fields": {
+      "name": "Ijebu East",
+     "state": ["OG"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 203,
+    "fields": {
+      "name": "Ijebu North",
+      "state": ["OG"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 204,
+    "fields": {
+      "name": "Ijebu North East",
+      "state": ["OG"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 205,
+    "fields": {
+      "name": "Ijebu Ode ",
+      "state": ["OG"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 206,
+    "fields": {
+      "name": "Ikenne",
+      "state": ["OG"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 207,
+    "fields": {
+      "name": "Imeko-Afon",
+      "state": ["OG"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 208,
+    "fields": {
+      "name": "Ipokia",
+       "state": ["OG"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 209,
+    "fields": {
+      "name": "Obafemi-Owode",
+      "state": ["OG"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 210,
+    "fields": {
+      "name": "Ogun Waterside",
+      "state": ["OG"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 211,
+    "fields": {
+      "name": "Odeda",
+      "state": ["OG"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 212,
+    "fields": {
+      "name": "Odogbolu",
+     "state": ["OG"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 213,
+    "fields": {
+      "name": "Remo North",
+      "state": ["OG"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 214,
+    "fields": {
+      "name": "Shagamu",
+      "state": ["OG"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 215,
+    "fields": {
+      "name": "Abak",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 216,
+    "fields": {
+      "name": "Eastern Obolo",
+       "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 217,
+    "fields": {
+      "name": "Eket",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 218,
+    "fields": {
+      "name": "Esit Eket",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 219,
+    "fields": {
+      "name": "Essien Udim",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 220,
+    "fields": {
+      "name": "Etim Ekpo",
+     "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 221,
+    "fields": {
+      "name": "Etinan",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 222,
+    "fields": {
+      "name": "Ibeno",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 223,
+    "fields": {
+      "name": "Ibesikpo Asutan",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 224,
+    "fields": {
+      "name": "Ibiono Ibom",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 225,
+    "fields": {
+      "name": "Ika",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 226,
+    "fields": {
+      "name": "Ikono",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 227,
+    "fields": {
+      "name": "Ikot Abasi",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 228,
+    "fields": {
+      "name": "Ikot Ekpene",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 229,
+    "fields": {
+      "name": "Ini",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 230,
+    "fields": {
+      "name": "Itu",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 231,
+    "fields": {
+      "name": "Mbo",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 232,
+    "fields": {
+      "name": "Mkpat Enin",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 233,
+    "fields": {
+      "name": "Nsit Atai ",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 234,
+    "fields": {
+      "name": "Nsit Ibom ",
+       "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 235,
+    "fields": {
+      "name": "Nsit Ubium",
+       "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 236,
+    "fields": {
+      "name": "Obot Akara",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 237,
+    "fields": {
+      "name": "Okobo",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 238,
+    "fields": {
+      "name": "Onna",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 239,
+    "fields": {
+      "name": "Oron",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 240,
+    "fields": {
+      "name": "Oruk Anam",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 241,
+    "fields": {
+      "name": "Udung Uko",
+       "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 242,
+    "fields": {
+      "name": "Ukanafun",
+       "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 243,
+    "fields": {
+      "name": "Ukanafun",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 244,
+    "fields": {
+      "name": "Uruan",
+       "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 245,
+    "fields": {
+      "name": "Urue-Offong/Oruko",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 246,
+    "fields": {
+      "name": "Uyo",
+      "state": ["AK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 247,
+    "fields": {
+      "name": "Agaie",
+      "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 248,
+    "fields": {
+      "name": "Agwara",
+      "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 249,
+    "fields": {
+      "name": "Bida",
+      "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 250,
+    "fields": {
+      "name": "Borgu",
+     "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 251,
+    "fields": {
+      "name": "Bosso",
+      "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 252,
+    "fields": {
+      "name": "Chanchaga",
+     "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 253,
+    "fields": {
+      "name": "Edati",
+      "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 254,
+    "fields": {
+      "name": "Gbako",
+     "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 255,
+    "fields": {
+      "name": "Gurara",
+     "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 256,
+    "fields": {
+      "name": "Katcha",
+      "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 257,
+    "fields": {
+      "name": "Kontagora",
+      "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 258,
+    "fields": {
+      "name": "Lapai",
+     "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 259,
+    "fields": {
+      "name": "Lavun",
+      "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 260,
+    "fields": {
+      "name": "Magama",
+      "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 261,
+    "fields": {
+      "name": "Mariga",
+      "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 262,
+    "fields": {
+      "name": "Mashegu",
+      "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 263,
+    "fields": {
+      "name": "Mokwa",
+      "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 264,
+    "fields": {
+      "name": "Muya",
+      "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 265,
+    "fields": {
+      "name": "Pailoro",
+      "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 266,
+    "fields": {
+      "name": "Rafi",
+     "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 267,
+    "fields": {
+      "name": "Rijau",
+      "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 268,
+    "fields": {
+      "name": "Shiroro",
+      "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 269,
+    "fields": {
+      "name": "Suleja",
+      "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 270,
+    "fields": {
+      "name": "Tafa",
+      "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 271,
+    "fields": {
+      "name": "Wushishi",
+      "state": ["NI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 272,
+    "fields": {
+      "name": "Barikin Ladi ",
+      "state": ["PT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 273,
+    "fields": {
+      "name": "Bassa",
+      "state": ["PT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 274,
+    "fields": {
+      "name": "Bokkos",
+      "state": ["PT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 275,
+    "fields": {
+      "name": "Jos East",
+      "state": ["PT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 276,
+    "fields": {
+      "name": "Jos North",
+     "state": ["PT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 277,
+    "fields": {
+      "name": "Jos South",
+      "state": ["PT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 278,
+    "fields": {
+      "name": "Kanam",
+      "state": ["PT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 279,
+    "fields": {
+      "name": "Kanke",
+     "state": ["PT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 281,
+    "fields": {
+      "name": "Langtang North",
+      "state": ["PT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 282,
+    "fields": {
+      "name": "Langtang South",
+      "state": ["PT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 283,
+    "fields": {
+      "name": "Mangu",
+      "state": ["PT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 284,
+    "fields": {
+      "name": "Mikang",
+      "state": ["PT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 285,
+    "fields": {
+      "name": "Pankshin",
+      "state": ["PT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 286,
+    "fields": {
+      "name": "Qua'an Pan",
+      "state": ["PT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 287,
+    "fields": {
+      "name": "Riyom",
+      "state": ["PT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 288,
+    "fields": {
+      "name": "Shendam",
+      "state": ["PT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 289,
+    "fields": {
+      "name": "Wase",
+      "state": ["PT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 290,
+    "fields": {
+      "name": "Afijio",
+     "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 291,
+    "fields": {
+      "name": "Akinyele",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 292,
+    "fields": {
+      "name": "Atiba",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 293,
+    "fields": {
+      "name": "Atigbo",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 294,
+    "fields": {
+      "name": "Egbeda",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 295,
+    "fields": {
+      "name": "ibadancentral",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 296,
+    "fields": {
+      "name": "Ibadan North",
+     "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 297,
+    "fields": {
+      "name": "Ibadan North West",
+     "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 298,
+    "fields": {
+      "name": "Ibadan South East",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 299,
+    "fields": {
+      "name": "Ibadan South West ",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 300,
+    "fields": {
+      "name": "Ido",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 301,
+    "fields": {
+      "name": "Ibarapa Central",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 302,
+    "fields": {
+      "name": "Ibarapa East",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 303,
+    "fields": {
+      "name": "Ibarapa Nort",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 304,
+    "fields": {
+      "name": "Irepo",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 305,
+    "fields": {
+      "name": "Iseyin",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 306,
+    "fields": {
+      "name": "Itesiwaju",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 307,
+    "fields": {
+      "name": "Iwajowa",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 308,
+    "fields": {
+      "name": "Kajola",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 309,
+    "fields": {
+      "name": "Lagelu Ogbomosho North",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 310,
+    "fields": {
+      "name": "Ogbmosho South",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 311,
+    "fields": {
+      "name": "Ogo Oluwa",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 312,
+    "fields": {
+      "name": "Olorunsogo",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 313,
+    "fields": {
+      "name": "Oluyole",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 314,
+    "fields": {
+      "name": "Ona-Ara",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 315,
+    "fields": {
+      "name": "Orelope",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 316,
+    "fields": {
+      "name": "Ori Ire",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 317,
+    "fields": {
+      "name": "Bakori",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 318,
+    "fields": {
+      "name": "Oyo East ",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 319,
+    "fields": {
+      "name": "Oyo West",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 320,
+    "fields": {
+      "name": "Saki East",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 321,
+    "fields": {
+      "name": "Saki West ",
+      "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 322,
+    "fields": {
+      "name": "Surulere",
+     "state": ["OY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 323,
+    "fields": {
+      "name": "Agege",
+      "state": ["LA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 324,
+    "fields": {
+      "name": "Ajeromi-Ifelodun",
+       "state": ["LA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 325,
+    "fields": {
+      "name": "Alimosho",
+      "state": ["LA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 326,
+    "fields": {
+      "name": "Amuwo-Odofin",
+      "state": ["LA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 327,
+    "fields": {
+      "name": "Apapa",
+      "state": ["LA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 328,
+    "fields": {
+      "name": "Badagry",
+      "state": ["LA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 329,
+    "fields": {
+      "name": "Epe",
+      "state": ["LA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 330,
+    "fields": {
+      "name": "Eti-Osa",
+      "state": ["LA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 331,
+    "fields": {
+      "name": "Ibeju/Lekki",
+      "state": ["LA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 332,
+    "fields": {
+      "name": "Ifako-Ijaye",
+      "state": ["LA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 333,
+    "fields": {
+      "name": "Ikeja",
+      "state": ["LA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 334,
+    "fields": {
+      "name": "Ikorodu",
+      "state": ["LA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 335,
+    "fields": {
+      "name": "Kosofe",
+      "state": ["LA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 336,
+    "fields": {
+      "name": "Lagos Island",
+      "state": ["LA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 337,
+    "fields": {
+      "name": "Lagos Mainland",
+      "state": ["LA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 338,
+    "fields": {
+      "name": "Mushin",
+      "state": ["LA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 339,
+    "fields": {
+      "name": "Ojo",
+      "state": ["LA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 340,
+    "fields": {
+      "name": "Oshodi-Isolo",
+      "state": ["LA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 341,
+    "fields": {
+      "name": "Shomolu",
+      "state": ["LA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 342,
+    "fields": {
+      "name": "Surulere",
+      "state": ["LA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 343,
+    "fields": {
+      "name": "Batagarawa",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 344,
+    "fields": {
+      "name": "Batsari",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 345,
+    "fields": {
+      "name": "Bindawa",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 346,
+    "fields": {
+      "name": "Charanchi",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 347,
+    "fields": {
+      "name": "Dandume",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 348,
+    "fields": {
+      "name": "Danja",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 349,
+    "fields": {
+      "name": "Dan Musa",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 350,
+    "fields": {
+      "name": "Daura",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 351,
+    "fields": {
+      "name": "Dutsi",
+     "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 352,
+    "fields": {
+      "name": "Dutsin-Ma",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 353,
+    "fields": {
+      "name": "Faskari",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 354,
+    "fields": {
+      "name": "Funtua",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 355,
+    "fields": {
+      "name": "Ingawa",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 356,
+    "fields": {
+      "name": "Jibia",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 357,
+    "fields": {
+      "name": "Kafur",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 358,
+    "fields": {
+      "name": "Kaita",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 359,
+    "fields": {
+      "name": "Kankara",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 360,
+    "fields": {
+      "name": "Kankia",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 361,
+    "fields": {
+      "name": "Katsina",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 362,
+    "fields": {
+      "name": "Kurfi",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 363,
+    "fields": {
+      "name": "Kusada",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 364,
+    "fields": {
+      "name": "Mai'Adua",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 365,
+    "fields": {
+      "name": "Malumfashi",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 366,
+    "fields": {
+      "name": "Mani",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 367,
+    "fields": {
+      "name": "Mashi",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 368,
+    "fields": {
+      "name": "Matazuu",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 369,
+    "fields": {
+      "name": "Musawa",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 370,
+    "fields": {
+      "name": "Rimi",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 371,
+    "fields": {
+      "name": "Sabuwa",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 373,
+    "fields": {
+      "name": "Safana",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 374,
+    "fields": {
+      "name": "Sandamu",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 375,
+    "fields": {
+      "name": "Zango",
+      "state": ["KA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 376,
+    "fields": {
+      "name": "Akoko North East",
+      "state": ["ON"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 377,
+    "fields": {
+      "name": "Akoko North West",
+      "state": ["ON"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 378,
+    "fields": {
+      "name": "Akoko South Akure East",
+      "state": ["ON"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 379,
+    "fields": {
+      "name": "Akoko South West",
+      "state": ["ON"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 380,
+    "fields": {
+      "name": "Akure North",
+      "state": ["ON"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 381,
+    "fields": {
+      "name": "Akure South",
+      "state": ["ON"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 382,
+    "fields": {
+      "name": "Ese-Odo",
+      "state": ["ON"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 383,
+    "fields": {
+      "name": "Idanre",
+      "state": ["ON"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 384,
+    "fields": {
+      "name": "Ifedore",
+      "state": ["ON"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 385,
+    "fields": {
+      "name": "Ilaje",
+      "state": ["ON"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 386,
+    "fields": {
+      "name": "Ile-Oluji",
+      "state": ["ON"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 387,
+    "fields": {
+      "name": "Okeigbo",
+      "state": ["ON"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 388,
+    "fields": {
+      "name": "Irele",
+      "state": ["ON"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 389,
+    "fields": {
+      "name": "Odigbo",
+      "state": ["ON"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 390,
+    "fields": {
+      "name": "Okitipupa",
+      "state": ["ON"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 391,
+    "fields": {
+      "name": "Ondo East",
+      "state": ["ON"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 392,
+    "fields": {
+      "name": "Ondo West",
+      "state": ["ON"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 393,
+    "fields": {
+      "name": "Ose",
+      "state": ["ON"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 394,
+    "fields": {
+      "name": "Owo",
+      "state": ["ON"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 395,
+    "fields": {
+      "name": "Birni-Gwari",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 396,
+    "fields": {
+      "name": "Chikun",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 397,
+    "fields": {
+      "name": "Giwa",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 398,
+    "fields": {
+      "name": "Igabi",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 399,
+    "fields": {
+      "name": "Ikara",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 400,
+    "fields": {
+      "name": "Jaba",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 401,
+    "fields": {
+      "name": "Jema'a",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 402,
+    "fields": {
+      "name": "Kachia",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 403,
+    "fields": {
+      "name": "Kaduna North",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 404,
+    "fields": {
+      "name": "Kaduna South",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 405,
+    "fields": {
+      "name": "Kagarko",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 406,
+    "fields": {
+      "name": "Kajuru",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 407,
+    "fields": {
+      "name": "Kaura",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 408,
+    "fields": {
+      "name": "Kauru",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 409,
+    "fields": {
+      "name": "Kubau",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 410,
+    "fields": {
+      "name": "Kudan",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 411,
+    "fields": {
+      "name": "Kudan",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 412,
+    "fields": {
+      "name": "Kudan",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 413,
+    "fields": {
+      "name": "Lere",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 414,
+    "fields": {
+      "name": "Makarfi",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 415,
+    "fields": {
+      "name": "Sabon-Gari",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 417,
+    "fields": {
+      "name": "Sanga",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 418,
+    "fields": {
+      "name": "Soba",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 419,
+    "fields": {
+      "name": "Zango-Kataf",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 420,
+    "fields": {
+      "name": "Zaria",
+      "state": ["KD"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 421,
+    "fields": {
+      "name": "Abua/Odual",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 422,
+    "fields": {
+      "name": "Ahoada East",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 423,
+    "fields": {
+      "name": "Ahoada West",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 424,
+    "fields": {
+      "name": "Akuku Toru",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 425,
+    "fields": {
+      "name": "Andoni",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 426,
+    "fields": {
+      "name": "Asari-Toru",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 427,
+    "fields": {
+      "name": "Bonny",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 428,
+    "fields": {
+      "name": "Degema",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 429,
+    "fields": {
+      "name": "Emohua",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 430,
+    "fields": {
+      "name": "Eleme",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 431,
+    "fields": {
+      "name": "Etche",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 432,
+    "fields": {
+      "name": "Gokana",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 433,
+    "fields": {
+      "name": "Ikwerre",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 434,
+    "fields": {
+      "name": "Khana",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 435,
+    "fields": {
+      "name": "Obia/Akpor",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 436,
+    "fields": {
+      "name": "Ogba/Egbema/Ndoni",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 437,
+    "fields": {
+      "name": "Ogu/Bolo",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 438,
+    "fields": {
+      "name": "Okrika",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 439,
+    "fields": {
+      "name": "Omumma",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 440,
+    "fields": {
+      "name": "Opobo/Nkoro",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 441,
+    "fields": {
+      "name": "Oyigbo",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 442,
+    "fields": {
+      "name": "Port-Harcourt",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 443,
+    "fields": {
+      "name": "Tai",
+      "state": ["RI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 444,
+    "fields": {
+      "name": "Alkaleri",
+      "state": ["BA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 445,
+    "fields": {
+      "name": "Bauchi",
+      "state": ["BA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 446,
+    "fields": {
+      "name": "Bogoro",
+      "state": ["BA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 447,
+    "fields": {
+      "name": "Damban",
+      "state": ["BA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 448,
+    "fields": {
+      "name": "Darazo",
+      "state": ["BA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 449,
+    "fields": {
+      "name": "Dass",
+      "state": ["BA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 450,
+    "fields": {
+      "name": "Ganjuwa",
+      "state": ["BA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 451,
+    "fields": {
+      "name": "Giade",
+      "state": ["BA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 452,
+    "fields": {
+      "name": "Itas/Gadau",
+      "state": ["BA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 453,
+    "fields": {
+      "name": "Jama'are",
+      "state": ["BA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 454,
+    "fields": {
+      "name": "Katagum",
+      "state": ["BA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 455,
+    "fields": {
+      "name": "Kirfi",
+      "state": ["BA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 456,
+    "fields": {
+      "name": "Misau",
+      "state": ["BA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 457,
+    "fields": {
+      "name": "Ningi",
+      "state": ["BA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 458,
+    "fields": {
+      "name": "Shira",
+      "state": ["BA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 459,
+    "fields": {
+      "name": "Tafawa-Balewa",
+      "state": ["BA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 460,
+    "fields": {
+      "name": "Toro",
+      "state": ["BA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 461,
+    "fields": {
+      "name": "Warji",
+      "state": ["BA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 462,
+    "fields": {
+      "name": "Zaki",
+      "state": ["BA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 463,
+    "fields": {
+      "name": "Binji",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 464,
+    "fields": {
+      "name": "Bodinga",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 465,
+    "fields": {
+      "name": "Dange-shnsi",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 466,
+    "fields": {
+      "name": "Gada",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 467,
+    "fields": {
+      "name": "Goronyo",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 468,
+    "fields": {
+      "name": "Gudu",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 469,
+    "fields": {
+      "name": "Gawabawa",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 470,
+    "fields": {
+      "name": "Illela",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 470,
+    "fields": {
+      "name": "Isa",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 471,
+    "fields": {
+      "name": "Kware",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 472,
+    "fields": {
+      "name": "kebbe",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 473,
+    "fields": {
+      "name": "Rabah",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 474,
+    "fields": {
+      "name": "Sabon birni",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 475,
+    "fields": {
+      "name": "Shagari",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 476,
+    "fields": {
+      "name": "Silame",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 477,
+    "fields": {
+      "name": "Sokoto North",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 478,
+    "fields": {
+      "name": "Sokoto South",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 479,
+    "fields": {
+      "name": "Tambuwal",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 480,
+    "fields": {
+      "name": "Tqngaza",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 481,
+    "fields": {
+      "name": "Tureta",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 482,
+    "fields": {
+      "name": "Wamako",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 483,
+    "fields": {
+      "name": "Wurno",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 484,
+    "fields": {
+      "name": "Yabo",
+      "state": ["SO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 485,
+    "fields": {
+      "name": "Aboh-Mbaise",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 486,
+    "fields": {
+      "name": "Ahiazu-Mbaise",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 487,
+    "fields": {
+      "name": "Ehime-Mbano",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 488,
+    "fields": {
+      "name": "Ezinihitte",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 489,
+    "fields": {
+      "name": "Ideato North",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 491,
+    "fields": {
+      "name": "Ideato South",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 492,
+    "fields": {
+      "name": "Ihitte/Uboma",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 493,
+    "fields": {
+      "name": "Ikeduru",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 494,
+    "fields": {
+      "name": "Isiala Mbano",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 495,
+    "fields": {
+      "name": "Isu",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 496,
+    "fields": {
+      "name": "Mbaitoli",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 497,
+    "fields": {
+      "name": "Ngor-Okpala",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 498,
+    "fields": {
+      "name": "Njaba",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 499,
+    "fields": {
+      "name": "Nwangele",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 500,
+    "fields": {
+      "name": "Nkwerre",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 501,
+    "fields": {
+      "name": "Nkwerre",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 502,
+    "fields": {
+      "name": "Obowo",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 503,
+    "fields": {
+      "name": "Oguta",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 504,
+    "fields": {
+      "name": "Ohaji/Egbema",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 505,
+    "fields": {
+      "name": "Okigwe",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 506,
+    "fields": {
+      "name": "Orsu",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 507,
+    "fields": {
+      "name": "Oru West",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 508,
+    "fields": {
+      "name": "Owerri-Municipal",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 509,
+    "fields": {
+      "name": "Owerri North",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 510,
+    "fields": {
+      "name": "Owerri West",
+      "state": ["IM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 511,
+    "fields": {
+      "name": "Gwagwalada",
+      "state": ["FCT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 512,
+    "fields": {
+      "name": "Kuje",
+      "state": ["FCT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 513,
+    "fields": {
+      "name": "Abaji",
+      "state": ["FCT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 514,
+    "fields": {
+      "name": "abuja-municipal",
+      "state": ["FCT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 515,
+    "fields": {
+      "name": "Bwari",
+      "state": ["FCT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 516,
+    "fields": {
+      "name": "Kwali",
+      "state": ["FCT"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 517,
+    "fields": {
+      "name": "Oshimili",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 518,
+    "fields": {
+      "name": "Aniocha",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 519,
+    "fields": {
+      "name": "Aniocha South",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 520,
+    "fields": {
+      "name": "Ika South",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 521,
+    "fields": {
+      "name": "Ika North-East",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 522,
+    "fields": {
+      "name": "Ndokwa West",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 523,
+    "fields": {
+      "name": "Ndokwa East",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 524,
+    "fields": {
+      "name": "Isoko south",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 525,
+    "fields": {
+      "name": "Isoko North",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 526,
+    "fields": {
+      "name": "Bomadi",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 527,
+    "fields": {
+      "name": "Burutu",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 528,
+    "fields": {
+      "name": "Ughelli South",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 529,
+    "fields": {
+      "name": "Ughelli North",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 530,
+    "fields": {
+      "name": "Ethiope West",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 531,
+    "fields": {
+      "name": "Ethiope East",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 532,
+    "fields": {
+      "name": "Sapele",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 533,
+    "fields": {
+      "name": "Okpe",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 534,
+    "fields": {
+      "name": "Warri North",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 535,
+    "fields": {
+      "name": "Warri South",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 536,
+    "fields": {
+      "name": "Uvwie",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 537,
+    "fields": {
+      "name": "Udu",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 538,
+    "fields": {
+      "name": "Warri Central",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 539,
+    "fields": {
+      "name": "Ukwani",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 540,
+    "fields": {
+      "name": "Oshimili North",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 541,
+    "fields": {
+      "name": "Patani",
+      "state": ["DE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 542,
+    "fields": {
+      "name": "Aguata",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 543,
+    "fields": {
+      "name": "Anambra East",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 544,
+    "fields": {
+      "name": "Anambra West",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 545,
+    "fields": {
+      "name": "Anaocha",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 546,
+    "fields": {
+      "name": "Awka North",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 547,
+    "fields": {
+      "name": "Awka South",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 548,
+    "fields": {
+      "name": "Ayamelum",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 549,
+    "fields": {
+      "name": "Dunukofia",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 550,
+    "fields": {
+      "name": "Ekwusigo",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 551,
+    "fields": {
+      "name": "Idemili North",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 552,
+    "fields": {
+      "name": "Idemili South",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 553,
+    "fields": {
+      "name": "Ihiala",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 554,
+    "fields": {
+      "name": "Njikoka",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 555,
+    "fields": {
+      "name": "Nnewi North",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 556,
+    "fields": {
+      "name": "Nnewi South",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 557,
+    "fields": {
+      "name": "Ogbaru",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 558,
+    "fields": {
+      "name": "Onitsha North",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 559,
+    "fields": {
+      "name": "Onitsha South",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 560,
+    "fields": {
+      "name": "Orumba North",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 561,
+    "fields": {
+      "name": "Orumba South",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 562,
+    "fields": {
+      "name": "Oyi",
+      "state": ["AN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 563,
+    "fields": {
+      "name": "Ajingi",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 564,
+    "fields": {
+      "name": "Albasu",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 565,
+    "fields": {
+      "name": "Bagwai",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 566,
+    "fields": {
+      "name": "Bebeji",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 567,
+    "fields": {
+      "name": "Bichi",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 568,
+    "fields": {
+      "name": "Bunkure",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 569,
+    "fields": {
+      "name": "Dala",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 570,
+    "fields": {
+      "name": "Dambatta",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 571,
+    "fields": {
+      "name": "Dawakin Kudu",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 572,
+    "fields": {
+      "name": "Dawakin Tofa",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 573,
+    "fields": {
+      "name": "Doguwa",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 574,
+    "fields": {
+      "name": "Fagge",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 575,
+    "fields": {
+      "name": "Gabasawa",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 576,
+    "fields": {
+      "name": "Garko",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 577,
+    "fields": {
+      "name": "Garum",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 578,
+    "fields": {
+      "name": "Mallam",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 579,
+    "fields": {
+      "name": "Gaya",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 580,
+    "fields": {
+      "name": "Gezawa",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 581,
+    "fields": {
+      "name": "Gwale",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 582,
+    "fields": {
+      "name": "Gwarzo",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 583,
+    "fields": {
+      "name": "Kabo",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 584,
+    "fields": {
+      "name": "Kano Municipal",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 585,
+    "fields": {
+      "name": "Karaye",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 586,
+    "fields": {
+      "name": "Kibiya",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 587,
+    "fields": {
+      "name": "Kiru",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 588,
+    "fields": {
+      "name": "kumbotso",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 589,
+    "fields": {
+      "name": "Kunchi",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 590,
+    "fields": {
+      "name": "Kura",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 591,
+    "fields": {
+      "name": "Madobi",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 592,
+    "fields": {
+      "name": "Makoda",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 593,
+    "fields": {
+      "name": "Minjibir",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 594,
+    "fields": {
+      "name": "Nasarawa",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 595,
+    "fields": {
+      "name": "Rano",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 596,
+    "fields": {
+      "name": "Rimin Gado",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 597,
+    "fields": {
+      "name": "Rogo",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 598,
+    "fields": {
+      "name": "Shanono",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 599,
+    "fields": {
+      "name": "Sumaila",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 600,
+    "fields": {
+      "name": "Takali",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 601,
+    "fields": {
+      "name": "Tarauni",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 602,
+    "fields": {
+      "name": "Tofa",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 603,
+    "fields": {
+      "name": "Tsanyawa",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 604,
+    "fields": {
+      "name": "Tudun Wada",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 605,
+    "fields": {
+      "name": "Ungogo",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 606,
+    "fields": {
+      "name": "Warawa",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 607,
+    "fields": {
+      "name": "Wudil",
+      "state": ["KN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 608,
+    "fields": {
+      "name": "Ado",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 609,
+    "fields": {
+      "name": "Agatu",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 610,
+    "fields": {
+      "name": "Apa",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 611,
+    "fields": {
+      "name": "Buruku",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 612,
+    "fields": {
+      "name": "Gboko",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 613,
+    "fields": {
+      "name": "Guma",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 614,
+    "fields": {
+      "name": "Gwer East",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 615,
+    "fields": {
+      "name": "Gwer West",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 616,
+    "fields": {
+      "name": "Katsina-Ala",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 617,
+    "fields": {
+      "name": "Konshisha",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 618,
+    "fields": {
+      "name": "Kwande",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 619,
+    "fields": {
+      "name": "Logo",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 620,
+    "fields": {
+      "name": "Makurdi",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 621,
+    "fields": {
+      "name": "Obi",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 622,
+    "fields": {
+      "name": "Ogbadibo",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 623,
+    "fields": {
+      "name": "Oju",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 624,
+    "fields": {
+      "name": "Okpokwu",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 625,
+    "fields": {
+      "name": "Ohimini",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 626,
+    "fields": {
+      "name": "Oturkpo",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 627,
+    "fields": {
+      "name": "Tarka",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 628,
+    "fields": {
+      "name": "Ukum",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 629,
+    "fields": {
+      "name": "Ushongo",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 630,
+    "fields": {
+      "name": "Vandeikya",
+      "state": ["BE"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 631,
+    "fields": {
+      "name": "Auyo",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 632,
+    "fields": {
+      "name": "Babura",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 633,
+    "fields": {
+      "name": "Birni Kudu",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 634,
+    "fields": {
+      "name": "Biriniwa",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 635,
+    "fields": {
+      "name": "Buji",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 636,
+    "fields": {
+      "name": "Dutse",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 637,
+    "fields": {
+      "name": "Gagarawa",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 638,
+    "fields": {
+      "name": "Garki",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 639,
+    "fields": {
+      "name": "Gumel",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 640,
+    "fields": {
+      "name": "Guri",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 641,
+    "fields": {
+      "name": "Gwaram",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 642,
+    "fields": {
+      "name": "Gwiwa",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 643,
+    "fields": {
+      "name": "Hadejia",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 644,
+    "fields": {
+      "name": "Jahun",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 645,
+    "fields": {
+      "name": "Kafin Hausa",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 646,
+    "fields": {
+      "name": "Kaugama Kazaure",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 647,
+    "fields": {
+      "name": "Kiri Kasamma",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 648,
+    "fields": {
+      "name": "Kiyawa",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 649,
+    "fields": {
+      "name": "Maigatari",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 650,
+    "fields": {
+      "name": "Malam Madori",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 651,
+    "fields": {
+      "name": "Miga",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 652,
+    "fields": {
+      "name": "Ringim",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 653,
+    "fields": {
+      "name": "Roni",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 654,
+    "fields": {
+      "name": "Sule-Tankarkar",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 655,
+    "fields": {
+      "name": "Taura",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 656,
+    "fields": {
+      "name": "Yankwashi",
+      "state": ["JI"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 657,
+    "fields": {
+      "name": "Enugu South",
+      "state": ["EN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 658,
+    "fields": {
+      "name": "Igbo-Eze South",
+      "state": ["EN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 659,
+    "fields": {
+      "name": "Enugu North",
+      "state": ["EN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 660,
+    "fields": {
+      "name": "Nkanu",
+      "state": ["EN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 661,
+    "fields": {
+      "name": "Udi Agwu",
+      "state": ["EN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 662,
+    "fields": {
+      "name": "Oji-River",
+      "state": ["EN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 663,
+    "fields": {
+      "name": "Ezeagu",
+      "state": ["EN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 664,
+    "fields": {
+      "name": "IgboEze North",
+      "state": ["EN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 665,
+    "fields": {
+      "name": "Isi-Uzo",
+      "state": ["EN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 666,
+    "fields": {
+      "name": "Nsukka",
+      "state": ["EN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 667,
+    "fields": {
+      "name": "Igbo-Ekiti",
+      "state": ["EN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 668,
+    "fields": {
+      "name": "Uzo-Uwani",
+      "state": ["EN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 669,
+    "fields": {
+      "name": "Enugu East",
+      "state": ["EN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 670,
+    "fields": {
+      "name": "Aninri",
+      "state": ["EN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 671,
+    "fields": {
+      "name": "Nkanu East",
+      "state": ["EN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 672,
+    "fields": {
+      "name": "Udenu",
+      "state": ["EN"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":673 ,
+    "fields": {
+      "name": "Brass",
+      "state": ["BY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 674,
+    "fields": {
+      "name": " Ekeremor",
+      "state": ["BY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":675 ,
+    "fields": {
+      "name": "Kolokuma/Opokuma ",
+      "state": ["BY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":676,
+    "fields": {
+      "name": "Nembe",
+      "state": ["BY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":677,
+    "fields": {
+      "name": "Ogbia",
+      "state": ["BY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":678,
+    "fields": {
+      "name": "Sagbama",
+      "state": ["BY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":679 ,
+    "fields": {
+      "name": "Southern Jaw",
+      "state": ["BY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":680,
+    "fields": {
+      "name": "Yenegoa",
+      "state": ["BY"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":681,
+    "fields": {
+      "name": "Ado",
+      "state": ["EK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk": 682,
+    "fields": {
+      "name": "Ekiti-East",
+      "state": ["EK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":683,
+    "fields": {
+      "name": "Ekiti-West",
+      "state": ["EK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":684,
+    "fields": {
+      "name": "Emure/Ise/Orun",
+      "state": ["EK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":685,
+    "fields": {
+      "name": "Ekiti South-West",
+      "state": ["EK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":686,
+    "fields": {
+      "name": "Ikare",
+      "state": ["EK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":687,
+    "fields": {
+      "name": "Irepodun",
+      "state": ["EK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":688,
+    "fields": {
+      "name": "Ijero",
+      "state": ["EK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":689,
+    "fields": {
+      "name": "Ido/Osi",
+      "state": ["EK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":690,
+    "fields": {
+      "name": "Oye",
+      "state": ["EK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":691,
+    "fields": {
+      "name": "Ikole",
+      "state": ["EK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":692,
+    "fields": {
+      "name": "Moba",
+      "state": ["EK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":693,
+    "fields": {
+      "name": "Gbonyin",
+      "state": ["EK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":694,
+    "fields": {
+      "name": "Efon",
+      "state": ["EK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":695,
+    "fields": {
+      "name": "Ise/Orun",
+      "state": ["EK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":696,
+    "fields": {
+      "name": "Ilejemeje",
+      "state": ["EK"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":697,
+    "fields": {
+      "name": "Akko",
+      "state": ["GO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":698,
+    "fields": {
+      "name": "Balanga",
+      "state": ["GO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":799,
+    "fields": {
+      "name": "Billiri",
+      "state": ["GO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":700,
+    "fields": {
+      "name": "Dukku",
+      "state": ["GO"]
+    }
+  },
+{
+    "model": "core.LocalGovernment",
+    "pk":701,
+    "fields": {
+      "name": "Kaltungo",
+      "state": ["GO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":702,
+    "fields": {
+      "name": "Kwami",
+      "state": ["GO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":703,
+    "fields": {
+      "name": "Shomgom",
+      "state": ["GO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":704,
+    "fields": {
+      "name": "Funakaye",
+      "state": ["GO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":705,
+    "fields": {
+      "name": "Gombe",
+      "state": ["GO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":706,
+    "fields": {
+      "name": "Nafada/Bajoga",
+      "state": ["GO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":707,
+    "fields": {
+      "name": "Yamaltu/Delta",
+      "state": ["GO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":706,
+    "fields": {
+      "name": "Anka",
+      "state": ["ZM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":709,
+    "fields": {
+      "name": "Bakura",
+      "state": ["ZM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":710,
+    "fields": {
+      "name": "Birnin Magaji",
+      "state": ["ZM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":711,
+    "fields": {
+      "name": "Bukkuyum",
+      "state": ["ZM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":712,
+    "fields": {
+      "name": "Bungudu",
+      "state": ["ZM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":713,
+    "fields": {
+      "name": "Gummi",
+      "state": ["ZM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":714,
+    "fields": {
+      "name": "Gusau",
+      "state": ["ZM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":715,
+    "fields": {
+      "name": "Kaura",
+      "state": ["ZM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":716,
+    "fields": {
+      "name": "Namoda",
+      "state": ["ZM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":717,
+    "fields": {
+      "name": "Maradun",
+      "state": ["ZM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":718,
+    "fields": {
+      "name": "Maru",
+      "state": ["ZM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":719,
+    "fields": {
+      "name": "Shinkafi",
+      "state": ["ZM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":720,
+    "fields": {
+      "name": "Talata Mafara",
+      "state": ["ZM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":721,
+    "fields": {
+      "name": "Tsafe",
+      "state": ["ZM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":722,
+    "fields": {
+      "name": "Zurmi",
+      "state": ["ZM"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":723,
+    "fields": {
+      "name": "Akwanga",
+      "state": ["NA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":724,
+    "fields": {
+      "name": "Awe",
+      "state": ["NA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":725,
+    "fields": {
+      "name": "Doma",
+      "state": ["NA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":726,
+    "fields": {
+      "name": "Karu",
+      "state": ["NA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":727,
+    "fields": {
+      "name": "Keana",
+      "state": ["NA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":728,
+    "fields": {
+      "name": "Keffi",
+      "state": ["NA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":729,
+    "fields": {
+      "name": "Kokona",
+      "state": ["NA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":730,
+    "fields": {
+      "name": "Lafia",
+      "state": ["NA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":731,
+    "fields": {
+      "name": "Nasarawa",
+      "state": ["NA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":732,
+    "fields": {
+      "name": "Nasarawa-Eggon",
+      "state": ["NA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":733,
+    "fields": {
+      "name": "Obi",
+      "state": ["NA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":734,
+    "fields": {
+      "name": "Toto",
+      "state": ["NA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":735,
+    "fields": {
+      "name": "Wamba",
+      "state": ["NA"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":737,
+    "fields": {
+      "name": "Afikpo South",
+      "state": ["EB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":738,
+    "fields": {
+      "name": "Afikpo North",
+      "state": ["EB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":739,
+    "fields": {
+      "name": "Onicha",
+      "state": ["EB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":740,
+    "fields": {
+      "name": "Ohaozara",
+      "state": ["EB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":741,
+    "fields": {
+      "name": "Abakaliki",
+      "state": ["EB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":742,
+    "fields": {
+      "name": "Ishielu",
+      "state": ["EB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":743,
+    "fields": {
+      "name": "lkwo",
+      "state": ["EB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":744,
+    "fields": {
+      "name": "Ezza",
+      "state": ["EB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":745,
+    "fields": {
+      "name": "Ezza South",
+      "state": ["EB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":746,
+    "fields": {
+      "name": "Ohaukwu",
+      "state": ["EB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":747,
+    "fields": {
+      "name": "Ebonyi",
+      "state": ["EB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":748,
+    "fields": {
+      "name": "Ivo",
+      "state": ["EB"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":752,
+    "fields": {
+      "name": "Abadam",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":753,
+    "fields": {
+      "name": "Askira/Uba",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":754,
+    "fields": {
+      "name": "Bama",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":755,
+    "fields": {
+      "name": "Bayo",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":756,
+    "fields": {
+      "name": "Biu",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":757,
+    "fields": {
+      "name": "Chibok",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":758,
+    "fields": {
+      "name": "Damboa",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":759,
+    "fields": {
+      "name": "Dikwa",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":760,
+    "fields": {
+      "name": "Gubio",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":761,
+    "fields": {
+      "name": "Guzamala",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":762,
+    "fields": {
+      "name": "Gwoza",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":763,
+    "fields": {
+      "name": "Hawul",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":764,
+    "fields": {
+      "name": "Jere",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":765,
+    "fields": {
+      "name": "Kaga",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":766,
+    "fields": {
+      "name": "Kala/Balge",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":767,
+    "fields": {
+      "name": "Konduga",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":768,
+    "fields": {
+      "name": "Kukawa",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":769,
+    "fields": {
+      "name": "Kwaya Kusar",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":770,
+    "fields": {
+      "name": "Mafa",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":771,
+    "fields": {
+      "name": "Magumeri",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":772,
+    "fields": {
+      "name": "Maiduguri",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":773,
+    "fields": {
+      "name": "Marte",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":774,
+    "fields": {
+      "name": "Mobbar",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":775,
+    "fields": {
+      "name": "Monguno",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":776,
+    "fields": {
+      "name": "Ngala",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":777,
+    "fields": {
+      "name": "Nganzai",
+      "state": ["BO"]
+    }
+  },
+  {
+    "model": "core.LocalGovernment",
+    "pk":778,
+    "fields": {
+      "name": "Shani",
+      "state": ["BO"]
+    }
+  }
+]

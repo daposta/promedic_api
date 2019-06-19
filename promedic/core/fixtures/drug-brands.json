@@ -1,0 +1,46 @@
+
+[
+  {
+    "model": "core.DrugBrand",
+    "pk": 1,
+    "fields": {
+      "name": "Aspirin"
+    }
+  },
+  {
+    "model": "core.DrugBrand",
+    "pk": 2,
+    "fields": {
+      "name": "Vasporin"
+    }
+  },
+  {
+    "model": "core.DrugBrand",
+    "pk": 3,
+    "fields": {
+      "name": "Aminophylline"
+    }
+  },
+  {
+    "model": "core.DrugBrand",
+    "pk": 4,
+    "fields": {
+      "name": "Astymin"
+    }
+  },
+  {
+    "model": "core.DrugBrand",
+    "pk": 5,
+    "fields": {
+      "name": "Astyfer"
+    }
+  },
+  {
+    "model": "core.DrugBrand",
+    "pk": 6,
+    "fields": {
+      "name": "Lipitor"
+    }
+  }
+
+]

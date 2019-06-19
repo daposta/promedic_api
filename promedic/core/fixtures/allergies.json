@@ -1,0 +1,32 @@
+
+[
+  {
+    "model": "core.Allergy",
+    "pk": 1,
+    "fields": {
+      "name": "Sulfa"
+    }
+  },
+  {
+    "model": "core.Allergy",
+    "pk": 2,
+    "fields": {
+      "name": "Grass"
+    }
+  },
+  {
+    "model": "core.Allergy",
+    "pk": 3,
+    "fields": {
+      "name": "Nuts"
+    }
+  },
+  {
+    "model": "core.Allergy",
+    "pk": 4,
+    "fields": {
+      "name": "Quinine"
+    }
+  }
+
+]
