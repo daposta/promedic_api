@@ -115,9 +115,9 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'randompinfield',
-    'core.apps.CoreConfig',
-    'medic.apps.MedicConfig',
-    'newsletters.apps.NewslettersConfig',
+    'core',
+    'medic',
+    'newsletters',
 ]
 
 MIDDLEWARE = [
