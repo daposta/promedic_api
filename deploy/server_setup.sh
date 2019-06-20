@@ -27,7 +27,7 @@ $PROJECT_BASE_PATH/env/bin/pip install -r $PROJECT_BASE_PATH/src/promedic/requir
 $PROJECT_BASE_PATH/env/bin/pip install gunicorn 
 
 # Run migrations
-cd $PROJECT_BASE_PATH/src/passme
+cd $PROJECT_BASE_PATH/src/promedic
 $PROJECT_BASE_PATH/env/bin/python manage.py makemigrations
 $PROJECT_BASE_PATH/env/bin/python manage.py migrate
 $PROJECT_BASE_PATH/env/bin/python manage.py collectstatic --noinput
@@ -42,7 +42,7 @@ supervisorctl restart promedic_api
 # Setup nginx to make our application accessible.
 #rm /etc/nginx/sites-available/nginx_passme_api.conf /etc/nginx/sites-enabled/nginx_passme_api.conf
 cp $PROJECT_BASE_PATH/deploy/nginx_promedic_api.conf /etc/nginx/sites-available/nginx_passme_api.conf
-#rm /etc/nginx/sites-enabled/default
+rm /etc/nginx/sites-enabled/default
 ln -s /etc/nginx/sites-available/nginx_promedic_api.conf /etc/nginx/sites-enabled/nginx_promedic_api.conf
 systemctl restart nginx.service
 
