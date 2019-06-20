@@ -8,3 +8,4 @@ Pillow
 django-fsm
 authy
 django-randompinfield
+mysqlclient
