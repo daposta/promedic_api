@@ -50,6 +50,8 @@ coverage.xml
 # mypy
 .mypy_cache/
 
+.idea/
+
 .DS_Store
 *.sqlite3
 media/
