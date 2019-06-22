@@ -1,9 +1,14 @@
 from __future__ import unicode_literals
 
 from django.db import models
-from django.contrib.auth.models import (
-    BaseUserManager, AbstractBaseUser
-)
+# from django.contrib.auth.models import (
+#     BaseUserManager, AbstractBaseUser
+# )
+
+from django.contrib.auth.models import AbstractBaseUser
+from django.contrib.auth.models import PermissionsMixin
+from django.contrib.auth.models import BaseUserManager
+
 
 # Create your models here.
 class StateManager(models.Manager):
@@ -153,12 +158,6 @@ class Disease(models.Model):
 
 
 
-from django.db import models
-from django.contrib.auth.models import (
-    BaseUserManager, AbstractBaseUser
-)
-
-
 class MyUserManager(BaseUserManager):
     def create_user(self, mobile,  password=None):
         """
@@ -192,7 +191,7 @@ class MyUserManager(BaseUserManager):
 
 
 
-class Member(AbstractBaseUser):
+class Member(AbstractBaseUser, PermissionsMixin):
 	USER_TYPE_CHOICES = (   
 		('SU', 'Super User'), 
 		('CL', 'Client'),
