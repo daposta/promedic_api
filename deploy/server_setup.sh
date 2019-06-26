@@ -42,7 +42,7 @@ supervisorctl restart promedic_api
 
 # Setup nginx to make our application accessible.
 #rm /etc/nginx/sites-available/nginx_passme_api.conf /etc/nginx/sites-enabled/nginx_passme_api.conf
-cp $PROJECT_BASE_PATH/deploy/nginx_promedic_api.conf /etc/nginx/sites-available/nginx_passme_api.conf
+cp $PROJECT_BASE_PATH/deploy/nginx_promedic_api.conf /etc/nginx/sites-available/nginx_promedic_api.conf
 rm /etc/nginx/sites-enabled/default
 ln -s /etc/nginx/sites-available/nginx_promedic_api.conf /etc/nginx/sites-enabled/nginx_promedic_api.conf
 systemctl restart nginx.service
