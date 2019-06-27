@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '28i^qd5s^1uqf_-)a)f6wb4gwsg$_8gxr1iej2gk$09a-*m#79'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', '139.162.213.237']
+ALLOWED_HOSTS = ['0.0.0.0', '151.236.217.130']
 
 ADMINS = [
     ('Oladapo Lawore', 'oladapo.lawore@levilabs.com')
