@@ -1,0 +1,25 @@
+
+[
+  {
+    "model": "core.DrugForm",
+    "pk": 1,
+    "fields": {
+      "name": "Tablet"
+    }
+  },
+  {
+    "model": "core.DrugForm",
+    "pk": 2,
+    "fields": {
+      "name": "Injection"
+    }
+  },
+  {
+    "model": "core.DrugForm",
+    "pk": 3,
+    "fields": {
+      "name": "Syrup"
+    }
+  }
+
+]

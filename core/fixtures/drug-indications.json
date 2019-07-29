@@ -1,0 +1,39 @@
+
+[
+  {
+    "model": "core.DrugIndication",
+    "pk": 1,
+    "fields": {
+      "name": "Arthritis"
+    }
+  },
+  {
+    "model": "core.DrugIndication",
+    "pk": 2,
+    "fields": {
+      "name": "Rheumatism"
+    }
+  },
+  {
+    "model": "core.DrugIndication",
+    "pk": 3,
+    "fields": {
+      "name": "Pain"
+    }
+  },
+  {
+    "model": "core.DrugIndication",
+    "pk": 4,
+    "fields": {
+      "name": "Swelling"
+    }
+  },
+  {
+    "model": "core.DrugIndication",
+    "pk": 4,
+    "fields": {
+      "name": "Fever"
+    }
+  }
+
+]

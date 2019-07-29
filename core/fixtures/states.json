@@ -1,0 +1,299 @@
+[
+  {
+    "model": "core.State",
+    "pk": 1,
+    "fields": {
+      "name": "Yobe",
+      "short_name": "YO"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 2,
+    "fields": {
+      "name": "Taraba",
+      "short_name": "TA"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 3,
+    "fields": {
+      "name": "Kwara",
+      "short_name": "KW"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 4,
+    "fields": {
+      "name": "Cross River",
+      "short_name": "CR"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 5,
+    "fields": {
+      "name": "Kebbi",
+      "short_name": "KE"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 6,
+    "fields": {
+      "name": "Kogi",
+      "short_name": "KO"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 7,
+    "fields": {
+      "name": "Adamawa",
+      "short_name": "AD"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 8,
+    "fields": {
+      "name": "Edo",
+      "short_name": "ED"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 9,
+    "fields": {
+      "name": "Osun",
+      "short_name": "OS"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 10,
+    "fields": {
+      "name": "Abia",
+      "short_name": "AB"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 11,
+    "fields": {
+      "name": "Ogun",
+      "short_name": "OG"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 12,
+    "fields": {
+      "name": "Akwa Ibom",
+      "short_name": "AK"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 13,
+    "fields": {
+      "name": "Niger",
+      "short_name": "NI"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 14,
+    "fields": {
+      "name": "Plateau",
+      "short_name": "PT"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 15,
+    "fields": {
+      "name": "Oyo",
+      "short_name": "OY"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 16,
+    "fields": {
+      "name": "Lagos",
+      "short_name": "LA"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 17,
+    "fields": {
+      "name": "Katsina",
+      "short_name": "KA"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 18,
+    "fields": {
+      "name": "Ondo",
+      "short_name": "ON"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 19,
+    "fields": {
+      "name": "Kaduna",
+      "short_name": "KD"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 20,
+    "fields": {
+      "name": "Rivers",
+      "short_name": "RI"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 21,
+    "fields": {
+      "name": "Abuja",
+      "short_name": "FCT"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 22,
+    "fields": {
+      "name": "Bauchi",
+      "short_name": "BA"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 23,
+    "fields": {
+      "name": "Sokoto",
+      "short_name": "SO"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 24,
+    "fields": {
+      "name": "Imo",
+      "short_name": "IM"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 25,
+    "fields": {
+      "name": "Delta",
+      "short_name": "DE"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 26,
+    "fields": {
+      "name": "Bornu",
+      "short_name": "BO"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 27,
+    "fields": {
+      "name": "Anambra",
+      "short_name": "AN"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 28,
+    "fields": {
+      "name": "Kano",
+      "short_name": "KN"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 29,
+    "fields": {
+      "name": "Benue",
+      "short_name": "BE"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 30,
+    "fields": {
+      "name": "Jigawa",
+      "short_name": "JI"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 31,
+    "fields": {
+      "name": "Enugu",
+      "short_name": "EN"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 32,
+    "fields": {
+      "name": "Bayelsa",
+      "short_name": "BY"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 33,
+    "fields": {
+      "name": "Ekiti",
+      "short_name": "EK"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 34,
+    "fields": {
+      "name": "Gombe",
+      "short_name": "GO"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 35,
+    "fields": {
+      "name": "Zamfara",
+      "short_name": "ZM"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 36,
+    "fields": {
+      "name": "Ebonyi",
+      "short_name": "EB"
+    }
+  },
+  {
+    "model": "core.State",
+    "pk": 37,
+    "fields": {
+      "name": "Nasarawa",
+      "short_name": "NA"
+    }
+  }
+
+]

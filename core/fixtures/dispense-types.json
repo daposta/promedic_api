@@ -1,0 +1,17 @@
+[
+  {
+    "model": "core.DrugDispenseType",
+    "pk": 1,
+    "fields": {
+      "name": "OVER THE COUNTER"
+    }
+  },
+  {
+    "model": "core.DrugDispenseType",
+    "pk": 2,
+    "fields": {
+      "name": "STRICTLY PRESCRIBED"
+    }
+  }
+
+]

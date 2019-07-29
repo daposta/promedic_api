@@ -1,0 +1,26 @@
+
+[
+  {
+    "model": "core.DocumentType",
+    "pk": 1,
+    "fields": {
+      "name": "Police/Criminal Report"
+    }
+  },
+  {
+    "model": "core.DocumentType",
+    "pk": 2,
+    "fields": {
+      "name": "Physical and Psychological Report"
+    }
+  },
+  {
+    "model": "core.DocumentType",
+    "pk": 3,
+    "fields": {
+      "name": "Training Evaluation Report"
+    }
+  }
+
+
+]
